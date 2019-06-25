@@ -4,7 +4,7 @@
 
 Submitted by: **Isabella Lee-Rubio**
 
-Time spent: 1
+Time spent: 1 hour
 
 ## User Stories
 
